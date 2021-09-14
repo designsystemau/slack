@@ -1,13 +1,13 @@
 {
-  "name": "@gold.au/slack",
-  "version": "0.0.1",
-  "private": true,
-  "description": "A clean url for Slack invitations",
-  "homepage": "https://slack.designsystemau.org",
-  "dependencies": {
-    "express": "^4.17.1"
-  },
-  "scripts": {
-    "start": "node server.js"
-  }
+	"name": "@gold.au/slack",
+	"version": "0.0.1",
+	"private": true,
+	"description": "A clean url for Slack invitations",
+	"homepage": "https://slack.designsystemau.org",
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"scripts": {
+		"start": "node server.js"
+	}
 }

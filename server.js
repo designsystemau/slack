@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 
-const { PORT=3000, LOCAL_ADDRESS='0.0.0.0', SLACK_INVITATION_LINK='https://google.com' } = process.env;
+const {PORT = 3000, LOCAL_ADDRESS = '0.0.0.0', SLACK_INVITATION_LINK = 'https://google.com'} = process.env;
 
 app.use(express.static('public'));
 
