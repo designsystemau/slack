@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"private": true,
 	"description": "A clean url for Slack invitations",
-	"homepage": "https://slack.designsystemau.org",
+	"homepage": "https://designsystemau-slack.herokuapp.com/",
 	"dependencies": {
 		"express": "^4.17.1"
 	},
